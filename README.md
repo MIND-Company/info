@@ -19,6 +19,7 @@
 | Коробицын Дмитрий Кириллович | dimakorobitcyn@yandex.ru | [@magistrkanistr](https://t.me/magistrkanistr) | [Ссылка](https://github.com/FireFace1337) |
 | Непочатый Никита Владимирович | nick.nnepochatyy@mail.ru | [@DefinitelyNik](https://t.me/DefinitelyNik) | [Ссылка](https://github.com/Nikegdo) |
 | Пермяков Роман Александрович | roman.teckk@gmail.com | [@PermiakovRoman](https://t.me/PermiakovRoman) | [Ссылка](https://github.com/Buskervil) |
+| Пименов Александр Алексеевич | sasha.pimenov.2002@inbox.ru | [@SashaPimenov](https://t.me/SashaPimenov) | [Ссылка](https://github.com/SashaPimenov) |
 
 - Цель проекта: <br/>
 Создать конкурентоспособную, прибыльную и удобную для пользователей модель автоматизированной парковочной системы.
